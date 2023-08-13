@@ -11,7 +11,6 @@ class Conta:
         self.saldo = saldo
 
 
-
 def main():
     contas = criar_contas()
     total = sum(conta.saldo for conta in contas)

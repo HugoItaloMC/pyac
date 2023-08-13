@@ -3,7 +3,7 @@ import time
 
 
 def main():
-    th = threading.Thread(target=contar, args=('elefante', 10)) # 2
+    th = threading.Thread(target=contar, args=('elefante', 10))  # 2 - Iniciando
 
     th.start() # Adiciona a nossa thread na pool de threads prontas para execução # 3
 
