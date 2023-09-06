@@ -40,7 +40,7 @@ if __name__ == '__main__':
     # loop está em execução. Internamente, asyncio.run() chama run_until_complete() para você
     # e, portanto, bloqueia o thread principal da mesma maneira.
 
-    pendente = asyncio.all_tasks(loop=execucao)
+    pendente = asyncio.all_tasks(loop=[execucao])
     for tarefa in pendente:
         tarefa.cancel()
 

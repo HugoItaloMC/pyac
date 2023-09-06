@@ -6,7 +6,6 @@ from threading import Thread
 from queue import Queue
 
 
-
 def gerador_de_dados(queue):
     for i in range(1, 11):
         print(colorama.Fore.GREEN + f'Dados {i} gerado.', flush=True)

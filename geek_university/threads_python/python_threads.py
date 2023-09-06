@@ -32,7 +32,6 @@ def main():
     print(f"Terminou em {tempo.total_seconds():.2f} segundos.")
 
 
-
 def computar(fim, inicio=1):
     pos = inicio
     fator = 1000 * 1000
