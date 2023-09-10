@@ -1,0 +1,4 @@
+{
+ "_class": "Servico",
+ "_attrs": "{'descricao': 'balanceamento', 'concluido': True, 'data_ordem': datetime.datetime(2023, 9, 7, 9, 38, 29, 510432), 'cliente': {'_class': 'Cliente', '_attrs': {'modelo': 'GOL', 'ano': '2020', 'nome': 'joão'}}, 'data_concluido': datetime.datetime(2023, 9, 7, 9, 38, 41, 520472)}"
+}

@@ -1,0 +1,9 @@
+
+{
+ "_class": "Servico",
+ "_attrs": "{'descricao': 'Alinhamento e Balanceamento', 'concluido': True, 'data_ordem': datetime.datetime(2023, 9, 7, 21, 33, 49, 899786), 'cliente': {'_class': 'Cliente', '_attrs': {'modelo': 'Gol', 'ano': '2020', 'nome': 'João'}}, 'data_concluido': datetime.datetime(2023, 9, 7, 21, 34, 0, 593370)}"
+}
+{
+ "_class": "Servico",
+ "_attrs": "{'descricao': 'Limpeza dos Bicos Injetores de combustível', 'concluido': True, 'data_ordem': datetime.datetime(2023, 9, 7, 21, 34, 1, 447971), 'cliente': {'_class': 'Cliente', '_attrs': {'modelo': 'Ford Focus', 'ano': '2010', 'nome': 'Maria Betania'}}, 'data_concluido': datetime.datetime(2023, 9, 7, 21, 34, 24, 388948)}"
+}
