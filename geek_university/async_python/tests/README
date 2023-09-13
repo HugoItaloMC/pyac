@@ -1,0 +1,14 @@
+Um simples gerador de Player e NPC para RPG
+
+app.py -- Dados em Alto nível 'Schema'
+helper.py -- Objetos com propósitos auxiliares
+main.py -- Controlador de requisicões entre schema e modelos
+run.py -- Executor das tarefas em objetos
+model.py -- Representacão das entidades como objetos Python
+.env -- Variáveis de ambiente da aplicacão
+stats -- Pasta contendo testes de cada módulo e seu respectivo objeto
+
+** INICIANDO A APLICACÃO **
+--  Entre no diretório da aplicacão e já com o Python3.10+ instalado em sua máquina abra o terminal e digite
+   os seguintes comandos:
+       # python3 -m run

@@ -1,0 +1,13 @@
+{"schema_character": "NPC(type_loby='stored', name='barner')"}
+{"schema_character": "Player(race_player='elf', class_player='archer')"}
+{"schema_character": "Player(race_player='Human', class_player='wizzard')"}
+{"schema_character": "NPC(type_loby='sales', name='karin')"}
+{"schema_character": "NPC(type_loby='stored', name='barner')"}
+{"schema_character": "Player(race_player='human', class_player='wizzard')"}
+{"schema_character": "Player(race_player='elf', class_player='blade&shield')"}
+{"schema_character": "Player(race_player='elf', class_player='warrior')"}
+{"schema_character": "Player(race_player='troll', class_player='archer')"}
+{"schema_character": "Player(race_player='elf', class_player='archer')"}
+{"schema_character": "Player(race_player='elf', class_player='wizzard')"}
+{"schema_character": "Player(race_player='paladin', class_player='blade&shield')"}
+{"schema_character": "NPC(type_loby='Pottion Saller', name='Karin')"}
